@@ -20,25 +20,12 @@
   </properties>
 
   <dependencies>
+    <!-- https://mvnrepository.com/artifact/junit/junit -->
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.11</version>
+      <version>4.13</version>
       <scope>test</scope>
-    </dependency>
-
-    <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
-    <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-core</artifactId>
-      <version>5.1.4.RELEASE</version>
-    </dependency>
-
-    <!-- https://mvnrepository.com/artifact/org.springframework/spring-beans -->
-    <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-beans</artifactId>
-      <version>5.1.4.RELEASE</version>
     </dependency>
 
     <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
